@@ -66,7 +66,7 @@ class MedianOfTwoSortedArrays {
         int second = 0;
 
         // in every step, one element will be visited
-        // and the last visited two elements will be recorede in first and second
+        // and the last visited two elements will be saved in first and second
         while (i + j < target) {
             first = second;
             if (i < m && j < n) {

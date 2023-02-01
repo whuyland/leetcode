@@ -1,8 +1,6 @@
 // https://leetcode.com/problems/longest-palindromic-substring
 
 class LongestPalindromicSubstring {
-
-
     // use int[] directly
     public String longestPalindrome(String s) {
         // "abc" -> "a#b#c", we expand at every character including '#'
@@ -27,31 +25,13 @@ class LongestPalindromicSubstring {
         return new int[]{i + 1, j, j - i - 1};
     }
 
-
-    // use Range to avoid string deep copy
-    static class Range {
-        int l;
-        int r;
-        int len;
-
-        // [i...j)
-        public Range(int i, int j) {
-            l = i;
-            r = j;
-            len = j - i;
-            if (len < 0) {
-                len = 0;
-            }
-        }
-    }
-
     // with dp
     public String longestPalindromeIII(String s) {
         int n = s.length();
         int[][] dp = new int[n][n];
         int[] ret = new int[]{0, 0};
 
-        // base case: all single elemnt have length 1
+        // base case: all single element have length 1
         for (int i = 0; i < n; ++i) {
             dp[i][i] = 1;
         }
@@ -59,7 +39,7 @@ class LongestPalindromicSubstring {
         for (int i = n - 2; i >= 0; --i) {
             for (int j = i + 1; j < n; ++j) {
                 // dp is initialized with all zeros,
-                // if the guard elemnts are not same, just ignore
+                // if the guard elements are not same, just ignore
                 if (s.charAt(i) != s.charAt(j)) {
                     continue;
                 }
@@ -80,6 +60,23 @@ class LongestPalindromicSubstring {
             }
         }
         return s.substring(ret[0], ret[1] + 1);
+    }
+
+    // use Range to avoid string deep copy
+    static class Range {
+        int l;
+        int r;
+        int len;
+
+        // [i...j)
+        public Range(int i, int j) {
+            l = i;
+            r = j;
+            len = j - i;
+            if (len < 0) {
+                len = 0;
+            }
+        }
     }
 
     public String longestPalindromeII(String s) {
