@@ -35,7 +35,7 @@ public class QuickSortWithShuffle {
     // 3. all elements between i and j are smaller values
     //    [pivot] ... s s s s ...          ending case, i will stop at the last smaller value or at hi position
     //                      j i            and j will be at the last smaller position
-    // so it concludes, j is postion to swap with lo at the last step
+    // So it concludes, j is position to swap with lo at the last step
     private int partition(int[] nums, int lo, int hi) {
         int pivot = nums[lo];
         int i = lo + 1;
