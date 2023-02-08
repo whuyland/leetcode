@@ -22,6 +22,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/16_3SumClosest" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/17_LetterCombinationOfAPhoneNumber" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/18_4Sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/19_RemoveNthNodeFromEndOfList" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
