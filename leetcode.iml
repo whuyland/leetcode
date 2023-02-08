@@ -18,6 +18,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/8_StringToInteger_atoi" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/912_SortAnArray" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/9_PalindromeNumber" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/15_3Sum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/18_4Sum" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
