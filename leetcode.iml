@@ -24,6 +24,8 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/18_4Sum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/19_RemoveNthNodeFromEndOfList" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/20_ValidParentheses" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/21_MergeTwoSortedLists" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/utils" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
