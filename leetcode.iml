@@ -28,6 +28,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/22_GenerateParentheses" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/23_MergeKSortedLists" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/24_SwapNodesInPairs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/25_ReverseNodesInKGroup" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/utils" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
