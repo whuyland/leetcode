@@ -33,6 +33,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/utils" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/27_RemoveElement" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/28_FindTheIndexOfTheFirstOccurrenceInAString" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/29_DivideTwoIntegers" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
