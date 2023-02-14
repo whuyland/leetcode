@@ -39,6 +39,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/32_LongestValidParentheses" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/33_SearchInRotatedSortedArray" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/34_FindFirstAndLastPositionOfElementInSortedArray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/35_SearchInsertPosition" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
