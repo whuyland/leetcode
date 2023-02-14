@@ -36,6 +36,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/29_DivideTwoIntegers" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/30_SubstringWithConcatenationOfAllWords" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/31_NextPermutation " isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/32_LongestValidParentheses" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
