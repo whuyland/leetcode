@@ -45,6 +45,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/38_CountAndSay" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/39_CombinationSum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/40_CombinationSumII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/41_FirstMissingPositive" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
