@@ -42,6 +42,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/35_SearchInsertPosition" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/35_ValidSudoku" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/37_SudokuSolver" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/38_CountAndSay" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
