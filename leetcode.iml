@@ -54,6 +54,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/46_PermutationsII" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/48_RotateImage" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/49_GroupAnagrams" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/50_Pow" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
