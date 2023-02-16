@@ -50,6 +50,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/43_MultiplyStrings" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/44_WildcardMatching" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/45_JumpGameII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/46_Permutations" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
