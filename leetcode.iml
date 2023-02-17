@@ -61,6 +61,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/54_SpiralMatrix" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/55_JumpGame" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/56_MergeIntervals" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/57_InsertInterval" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
