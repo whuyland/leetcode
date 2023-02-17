@@ -60,6 +60,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/53_MaximumSubarray" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/54_SpiralMatrix" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/55_JumpGame" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/56_MergeIntervals" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
