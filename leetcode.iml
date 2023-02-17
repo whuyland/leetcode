@@ -63,6 +63,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/56_MergeIntervals" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/57_InsertInterval" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/58_LengthOfLastWord" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/59_SpiralMatrixII" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
