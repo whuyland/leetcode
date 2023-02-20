@@ -67,6 +67,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/60_PermutationSequence" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/61_RotateList" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/62_UniquePaths" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/63_MinimumPathSum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/63_UniquePathsII" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
