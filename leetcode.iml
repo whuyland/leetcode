@@ -69,6 +69,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/62_UniquePaths" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/63_MinimumPathSum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/63_UniquePathsII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/65_ValidNumber" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
