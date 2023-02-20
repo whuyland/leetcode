@@ -71,6 +71,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/63_UniquePathsII" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/65_ValidNumber" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/66_PlusOne" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/67_AddBinary" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
