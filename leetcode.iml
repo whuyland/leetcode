@@ -65,6 +65,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/58_LengthOfLastWord" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/59_SpiralMatrixII" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/60_PermutationSequence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/61_RotateList" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
