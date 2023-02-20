@@ -73,6 +73,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/66_PlusOne" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/67_AddBinary" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/68_TextJustification" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/69_Sqrt" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
