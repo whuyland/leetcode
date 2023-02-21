@@ -35,7 +35,6 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/28_FindTheIndexOfTheFirstOccurrenceInAString" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/29_DivideTwoIntegers" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/30_SubstringWithConcatenationOfAllWords" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/31_NextPermutation " isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/32_LongestValidParentheses" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/33_SearchInRotatedSortedArray" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/34_FindFirstAndLastPositionOfElementInSortedArray" isTestSource="false" />
@@ -75,6 +74,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/68_TextJustification" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/69_Sqrt" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/70_ClimbingStairs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/31_NextPermutation" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
