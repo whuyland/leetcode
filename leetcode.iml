@@ -84,6 +84,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/77_Combinations" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/78_Subsets" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/79_WordSearch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/80_RemoveDuplicatesFromSortedArrayII " isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
