@@ -76,6 +76,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/70_ClimbingStairs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/31_NextPermutation" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/71_SimplifyPath" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/72_EditDistance" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/73_SetMatrixZeros" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
