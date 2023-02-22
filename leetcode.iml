@@ -80,6 +80,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/73_SetMatrixZeros" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/74_SearchA2DMatrix" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/75_SortColors" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/76_MinimumWindowSubstring" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
