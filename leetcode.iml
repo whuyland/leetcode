@@ -86,6 +86,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/79_WordSearch" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/80_RemoveDuplicatesFromSortedArrayII " isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/81_SearchInRotatedSortedArrayII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/82_RemoveDuplicatesFromSortedListII" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
