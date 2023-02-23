@@ -88,6 +88,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/81_SearchInRotatedSortedArrayII" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/82_RemoveDuplicatesFromSortedListII" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/83_RemoveDuplicatesFromSortedList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/84_LargestRectangleInHistogram" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
