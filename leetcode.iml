@@ -90,6 +90,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/84_LargestRectangleInHistogram" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/80_RemoveDuplicatesFromSortedArrayII" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/86_PartitionList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/87_ScrambleString" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
