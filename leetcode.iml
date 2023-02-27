@@ -100,6 +100,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/94_BinaryTreeInorderTraversal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/95_UniqueBinarySearchTreesII" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/96_UniqueBinarySearchTrees" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/97_InterleavingString" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
