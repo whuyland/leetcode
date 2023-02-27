@@ -97,6 +97,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/91_DecodeWays" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/92_ReverseLinkedListII" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/93_RestoreIPAddresses" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/94_BinaryTreeInorderTraversal" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
