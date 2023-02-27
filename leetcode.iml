@@ -102,6 +102,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/96_UniqueBinarySearchTrees" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/97_InterleavingString" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/98_ValidateBinarySearchTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/99_RecoverBinarySearchTree" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
