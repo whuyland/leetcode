@@ -98,6 +98,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/92_ReverseLinkedListII" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/93_RestoreIPAddresses" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/100_SameTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/215_KthLargestElemetnInAnArray" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/743_NetworkDelayTime" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/85_MaximalRectangle" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/94_BinaryTreeInorderTraversal" isTestSource="false" />
