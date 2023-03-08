@@ -118,6 +118,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/121_BestTimeToBuyAndSellStock" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/124_BinaryTreeMaximumPathSum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/128_LongestConsecutiveSequence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/131_PalindromePartitioning" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
