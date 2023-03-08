@@ -120,6 +120,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/128_LongestConsecutiveSequence" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/131_PalindromePartitioning" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/136_SingleNumber" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/138_CopyListWithRandomPointer" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
