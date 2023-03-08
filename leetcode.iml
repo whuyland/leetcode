@@ -113,6 +113,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/102_BinaryTreeLevelOrderTraversal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/104_MaximumDepthOfBinaryTree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/105_ConstructBinaryFromPreorderAndInorderTraversal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/114_FlattenBinaryTreeToLinkedList" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
