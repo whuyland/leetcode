@@ -115,6 +115,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/105_ConstructBinaryFromPreorderAndInorderTraversal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/114_FlattenBinaryTreeToLinkedList" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/118_PascalsTriangle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/121_BestTimeToBuyAndSellStock" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
