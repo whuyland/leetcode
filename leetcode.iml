@@ -110,6 +110,8 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/98_ValidateBinarySearchTree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/99_RecoverBinarySearchTree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_SymmetricTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/102_BinaryTreeLevelOrderTraversal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/104_MaximumDepthOfBinaryTree" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
