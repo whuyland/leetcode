@@ -124,6 +124,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/139_WordBreak" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/141_LinkedListCycle" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/142_LinkedListCycleII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/146_LRUCache" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
