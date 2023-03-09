@@ -126,6 +126,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/142_LinkedListCycleII" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/146_LRUCache" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/148_SortList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/152_MaximumProductSubarray" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
