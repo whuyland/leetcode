@@ -25,6 +25,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/153_FindMinimumInRotatedSortedArray" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/155_MinStack" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/160_IntersectionOfTwoLinkedLists" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/169_MajorityElement" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/1_100/100_SameTree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/1_100/10_RegularExpressionMatching" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/1_100/11_ContainerWithMostWater" isTestSource="false" />
