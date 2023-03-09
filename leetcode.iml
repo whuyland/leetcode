@@ -130,6 +130,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/1_100/98_ValidateBinarySearchTree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/1_100/99_RecoverBinarySearchTree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/1_100/9_PalindromeNumber" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/201_300/206_ReverseLinkedList" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/201_300/207_CourseSchedule" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/201_300/210_CourseScheduleII" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/201_300/215_KthLargestElemetnInAnArray" isTestSource="false" />
