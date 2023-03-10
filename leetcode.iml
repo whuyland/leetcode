@@ -137,6 +137,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/201_300/215_KthLargestElemetnInAnArray" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/701_800/743_NetworkDelayTime" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/901_1000/912_SortAnArray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/201_300/226_InvertBinaryTree" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
