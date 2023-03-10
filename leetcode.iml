@@ -141,6 +141,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/201_300/230_KthSmallestElementInABST" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/201_300/234_PalindromeLinkedList" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/201_300/236_LowestCommonAncestorOfABinaryTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/201_300/238_ProductArrayExceptSelf" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
