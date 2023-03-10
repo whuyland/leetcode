@@ -139,6 +139,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/901_1000/912_SortAnArray" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/201_300/226_InvertBinaryTree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/201_300/230_KthSmallestElementInABST" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/201_300/234_PalindromeLinkedList" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
