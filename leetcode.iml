@@ -148,6 +148,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/201_300/284_FindTheDuplicateNumber" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/201_300/295_FindMedianFromDataStream" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/201_300/300_LongestIncreasingSubsequence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/301_400/322_CoinChange" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
