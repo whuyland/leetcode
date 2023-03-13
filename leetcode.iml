@@ -146,6 +146,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/201_300/240_SearchA2DMatrixII" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/201_300/283_MoveZones" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/201_300/284_FindTheDuplicateNumber" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/201_300/295_FindMedianFromDataStream" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
