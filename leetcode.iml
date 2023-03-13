@@ -150,6 +150,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/201_300/300_LongestIncreasingSubsequence" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/301_400/322_CoinChange" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/301_400/347_TopKFrequentElements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/301_400/394_DecodeString" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
