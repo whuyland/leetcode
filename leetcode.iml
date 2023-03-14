@@ -155,6 +155,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/501_600/543_DiameterOfBinaryTree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/501_600/567_PermutationInString" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/701_800/739_DailyTemperatures" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/701_800/763_PartitionLabels" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
