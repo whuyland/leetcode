@@ -165,6 +165,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/122_BestTimeToBuyAndSellStockII" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/125_ValidPalindrome" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/127_WordLadder" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/130_SurroundedRegions" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
