@@ -159,6 +159,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/701_800/739_DailyTemperatures" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/701_800/763_PartitionLabels" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/901_1000/994_RottingOranges" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/103_BinaryTreeZigzagLevelOrderTraversal" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
