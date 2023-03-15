@@ -162,6 +162,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/103_BinaryTreeZigzagLevelOrderTraversal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/108_ConvertSortedArrayToBinarySearchTree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/116_PopulatingNextRightPointersInEachNode" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/122_BestTimeToBuyAndSellStockII" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
