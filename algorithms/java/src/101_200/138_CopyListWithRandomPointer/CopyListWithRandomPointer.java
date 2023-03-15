@@ -3,18 +3,18 @@ import java.util.List;
 
 // https://leetcode.com/problems/copy-list-with-random-pointer/
 public class CopyListWithRandomPointer {
-    public Node copyRandomList(Node head) {
-        Node guard = new Node(0);
+    public RandomNode copyRandomList(RandomNode head) {
+        RandomNode guard = new RandomNode(0);
         guard.next = head;
-        Node copyGuard = new Node(0);
+        RandomNode copyGuard = new RandomNode(0);
 
-        List<Node> copies = new ArrayList<>();
+        List<RandomNode> copies = new ArrayList<>();
 
         // copy the list, use val of origin list to mark which node the random point
-        Node prev = copyGuard;
+        RandomNode prev = copyGuard;
         int i = 0;
         while (head != null) {
-            prev.next = new Node(head.val);
+            prev.next = new RandomNode(head.val);
             prev = prev.next;
 
             copies.add(prev);
@@ -24,7 +24,7 @@ public class CopyListWithRandomPointer {
 
         // set random pointer
         head = guard.next;
-        Node copy = copyGuard.next;
+        RandomNode copy = copyGuard.next;
         while (head != null) {
             if (head.random != null) {
                 copy.random = copies.get(head.random.val);
