@@ -170,6 +170,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/140_WordBreakII" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/149_MaxPointsOnALine" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/150_EvaluateReversePolishNotation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/162_FindPeakElement" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
