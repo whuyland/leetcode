@@ -168,6 +168,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/130_SurroundedRegions" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/134_GasStation" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/140_WordBreakII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/149_MaxPointsOnALine" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
