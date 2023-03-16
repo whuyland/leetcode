@@ -173,6 +173,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/162_FindPeakElement" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/166_FractionToRecurringDecimal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/171_ExcelSheetColumnNumber" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/172_FactorialTrailingZeros" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
