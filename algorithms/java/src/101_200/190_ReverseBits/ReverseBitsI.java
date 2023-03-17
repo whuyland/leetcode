@@ -1,5 +1,6 @@
 // https://leetcode.com/problems/reverse-bits/
 public class ReverseBitsI {
+    // you need to treat n as an unsigned value
     public int reverseBits(int n) {
         int l = 1 << 31;
         int r = 1;

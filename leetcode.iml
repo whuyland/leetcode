@@ -176,6 +176,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/172_FactorialTrailingZeros" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/179_LargestNumber" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/190_ReverseBits" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/191_NumberOf1Bits" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
