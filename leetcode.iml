@@ -179,6 +179,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/191_NumberOf1Bits" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/201_300/202_HappyNumber" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/201_300/204_CountPrimes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/201_300/212_WordSearchII" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/201_300/217_ContainsDuplicate" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
