@@ -182,6 +182,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/201_300/212_WordSearchII" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/201_300/217_ContainsDuplicate" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/201_300/218_TheSkylineProblem" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/201_300/227_BasicCalculatorII" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
