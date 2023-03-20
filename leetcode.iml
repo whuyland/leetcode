@@ -185,6 +185,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/201_300/227_BasicCalculatorII" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/201_300/237_DeleteNodeInALinkedList" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/201_300/242_ValidAnagram" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/201_300/268_MissingNumber" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
