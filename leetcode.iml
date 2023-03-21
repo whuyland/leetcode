@@ -190,6 +190,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/201_300/289_GameOfLife" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/201_300/297_SerializeAndDeserializeBinaryTree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/301_400/324_WiggleSortII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/301_400/326_PowerOfThree" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
