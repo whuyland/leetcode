@@ -200,6 +200,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/301_400/371_SumOfTwoIntegers" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/301_400/378_KthSmallestElelmentInASortedMatrix" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/301_400/380_InsertDeleteGetRandomO1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/301_400/384_ShuffleAnArray" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
