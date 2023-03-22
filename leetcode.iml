@@ -197,6 +197,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/301_400/341_FlattenNestedListIterator" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/301_400/344_ReverseString" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/301_400/350_IntersectionOfTwoArraysII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/301_400/371_SumOfTwoIntegers" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
