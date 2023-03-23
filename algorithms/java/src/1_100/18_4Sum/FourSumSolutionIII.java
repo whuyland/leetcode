@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 
-public class FourSumIII {
+public class FourSumSolutionIII {
     public List<List<Integer>> fourSum(int[] nums, int target) {
         Arrays.sort(nums);
         return kSum(nums, 0, target, 4);

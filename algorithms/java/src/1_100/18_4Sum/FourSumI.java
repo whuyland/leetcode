@@ -1,20 +1,15 @@
 // https://leetcode.com/problems/4sum/
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashSet;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 
-// First sort the array, and think about values in bucket.
-// At every ith position, we take out one value from bucket, and bookkeep in freqs.
-// If ith position, we use up this value, we must search the other (k - i) values from next bucket.
-// And after the inner loop, we add that value back, and move ith position to next bucket.
-
-// With this array, it's kind of more clear than why we compare lo with lo or hi with hi + 1 and skip duplicates.
+// recursive kSum with bucket counting
 public class FourSumI {
+
     public List<List<Integer>> fourSum(int[] nums, int target) {
+        return kSum(nums, target, 4);
+    }
+
+    private List<List<Integer>> kSum(int[] nums, int target, int k) {
         Arrays.sort(nums);
         Set<Integer> dict = new HashSet<>();
         for (int i : nums) {
@@ -34,45 +29,50 @@ public class FourSumI {
             ++freqs[ind];
         }
 
-        List<List<Integer>> ret = new LinkedList<>();
-        for (int i = 0; i < n; ++i) {
-            --freqs[i];
-            for (int j = freqs[i] > 0 ? i : i + 1; j < n; ++j) {
-                --freqs[j];
-                for (int k = freqs[j] > 0 ? j : j + 1; k < n; ++k) {
-                    Integer query = safeSub(safeSub(safeSub(target, vals[i]), vals[j]), vals[k]);
-                    if (query == null) {
-                        continue;
-                    }
-                    if (query < vals[k]) {
-                        break;
-                    }
-                    --freqs[k];
-                    if (dict.contains(query) && (query != vals[k] || freqs[k] > 0)) {
-                        ret.add(new ArrayList<Integer>(
-                                Arrays.asList(vals[i], vals[j], vals[k], query)));
-                    }
-
-                    ++freqs[k];
-                }
-                ++freqs[j];
-            }
-            ++freqs[i];
-        }
-        return ret;
+        return kSum(vals, freqs, dict, 0, target, k);
     }
 
-    private Integer safeSub(Integer i, Integer j) {
-        if (i == null || j == null) {
-            return null;
-        }
-        if (i > 0 && j < 0 && i > Integer.MAX_VALUE + j) {
-            return null;
-        }
-        if (i < 0 && j > 0 && j + Integer.MIN_VALUE > i) {
-            return null;
+    // in the middle of calculation, it can be that target is out of range of int
+    private List<List<Integer>> kSum(int[] vals, int[] freqs, Set<Integer> dict, int start, long target, int k) {
+        List<List<Integer>> ret = new LinkedList<>();
+
+        long avg = target / k; // with vals[x] * k, it can overflow
+        if (start >= vals.length || avg > vals[vals.length - 1] || avg + 1 < vals[start]) { // avg is ceil
+            // early stop condition r.s.t side elements
+            // if how many elements left are kept, the condition start > vals.length can be further specified
+            return ret;
         }
 
-        return i - j;
+
+        if (k == 2) {
+            for (int i = start; i < vals.length; ++i) {
+                long remain = target - vals[i];
+                if (remain < vals[i]) {
+                    // we collect elements in ascending order,
+                    // so the last element must be greater than vals[i],
+                    // and from i on, remain will only be smaller
+                    break;
+                }
+                if (remain > Integer.MAX_VALUE) {
+                    // vals[i] is too small, keep scanning
+                    continue;
+                }
+                // remain can be safely converted back to int
+                if (dict.contains((int) remain) && (remain != vals[i] || freqs[i] > 1)) {
+                    ret.add(new LinkedList<>(Arrays.asList((int) remain, vals[i])));
+                }
+            }
+        } else {
+            for (int i = start; i < vals.length; ++i) {
+                --freqs[i];
+                List<List<Integer>> sub = kSum(vals, freqs, dict, freqs[i] > 0 ? i : i + 1, target - vals[i], k - 1);
+                for (List<Integer> ans : sub) {
+                    ans.add(vals[i]);
+                    ret.add(ans);
+                }
+                ++freqs[i];
+            }
+        }
+        return ret;
     }
 }
