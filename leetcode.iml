@@ -202,6 +202,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/301_400/380_InsertDeleteGetRandomO1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/301_400/384_ShuffleAnArray" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/301_400/387_FirstUniqueCharacterInAString" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/301_400/395_LongestSubstringWithAtLeastKRepeatingCharacters" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/401_500/412_FizzBuzz" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/401_500/454_4SumII" isTestSource="false" />
     </content>
