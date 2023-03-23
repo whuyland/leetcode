@@ -189,6 +189,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/201_300/279_PerfectSquares" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/201_300/289_GameOfLife" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/201_300/297_SerializeAndDeserializeBinaryTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/301_400/315_CountOfSmallerNumbersAfterSelf" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/301_400/324_WiggleSortII" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/301_400/326_PowerOfThree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/301_400/328_OddEvenLinkedList" isTestSource="false" />
