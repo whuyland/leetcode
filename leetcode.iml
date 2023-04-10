@@ -207,6 +207,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/401_500/412_FizzBuzz" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/401_500/454_4SumII" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/106_ConstructBinaryTreeFromInorderAndPostorderTraversal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/107_BinaryTreeLevelOrderTraversalII" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
