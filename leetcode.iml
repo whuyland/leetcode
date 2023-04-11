@@ -209,6 +209,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/106_ConstructBinaryTreeFromInorderAndPostorderTraversal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/107_BinaryTreeLevelOrderTraversalII" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/109_ConvertSortedListToBinarySearchTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/110_BalancedBinaryTree" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
