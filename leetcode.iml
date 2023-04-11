@@ -214,6 +214,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/112_PathSum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/113_PathSumII" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/115_DistinctSubsequences" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/117_PopulatingNextRightPointersInEachNodeII" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
