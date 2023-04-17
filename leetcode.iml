@@ -216,6 +216,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/115_DistinctSubsequences" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/117_PopulatingNextRightPointersInEachNodeII" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/119_PascalsTriangleII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/120_Triangle" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
