@@ -222,6 +222,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/126_WordLadderII" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/129_SumRootToLeafNumbers" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/133_CloneGraph" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/147_InsertionSortList" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
