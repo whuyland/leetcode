@@ -220,6 +220,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/123_BestTimeToBuyAndSellStockIII" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/144_BinaryTreePostorderTraversal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/126_WordLadderII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/129_SumRootToLeafNumbers" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
