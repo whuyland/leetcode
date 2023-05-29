@@ -223,6 +223,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/129_SumRootToLeafNumbers" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/133_CloneGraph" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/147_InsertionSortList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/143_ReorderList" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithms/java/src/101_200/145_BinaryTreePostorderTraversal" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
